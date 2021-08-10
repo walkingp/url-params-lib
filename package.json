@@ -1,0 +1,8 @@
+{
+  "name": "url-params-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/walkingp/url-params-lib.git",
+  "author": "Hong.Jian.Michael.Wang <Hong.Jian.Michael.Wang@dnv.com>",
+  "license": "MIT"
+}
